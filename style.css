@@ -1,0 +1,84 @@
+nav{
+    width: 100%;
+}
+nav ul{
+    padding-left: 100px;
+    float: right;
+}
+.header_menu .search mr_3{
+    padding-left: 100px;
+}
+.cart{
+    float: right;
+}
+.header_carousel img{
+    height: 500px;
+}
+.shop_by_category img{
+    height: 300px;
+}
+.backtop{
+    float: right;
+}
+.single_product{
+    height: 400px;
+}
+.products .badge{
+    position:absolute;
+    left: 35px;
+    top: 10px;
+}
+.product_detail .carousel-inner img{
+    height: 500px;
+    width: 300px;
+}
+.product_detail .carousel-indicators img{
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    border-radius: 50%;
+}
+.product_detail .carousel-indicators{
+    list-style: none;
+}
+.product_detail .carousel-indicators li{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 10px;
+}
+.category .products img{
+    height: 250px;
+}
+.products .list-group a {
+    font-weight: bold;
+}
+.cart{
+    width: 100%;
+}
+.header_manu .search a{
+    width: 100px;
+}
+.backtop .btn{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.about .avatar img{
+    border-radius: 100%;
+}
+.error{
+    color: red;
+}
+.feature .container .row{
+   /* background-color: #4422ee;*/
+   background-color: royalblue;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+
+
